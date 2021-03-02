@@ -1,9 +1,0 @@
-{
-  "parent": "block/slab",
-  "textures": {
-    "particle": "toffiumforge:blocks/pelet",
-    "bottom": "toffiumforge:blocks/pelet",
-    "top": "toffiumforge:blocks/pelet",
-    "side": "toffiumforge:blocks/pelet"
-  }
-}
