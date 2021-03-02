@@ -6,9 +6,9 @@ license="Academic Free License v3.0"
 modId="toffiumforge"
 version="1.0.0"
 displayName="Toffium-forge"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://mcreator.net"
-authors="Astro_Karmel, MCreator"
+credits="Mod dodajacy nowe bloki i zwierzeta, wiecej zmian pozniej"
+displayURL="github.com/tofikarz/Toffium-forge"
+authors="ChaeYox (tofikarz)"
 
 [[dependencies.toffiumforge]]
     modId="minecraft"
