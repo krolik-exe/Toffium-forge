@@ -65,14 +65,32 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "poidelko"
+    },
+    {
+      "name": "Toffium",
+      "type": "tab",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toffium"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
+    "pl_pl": {
+      "item.toffiumforge.swinkamorska_spawn_egg": "Jajo przyzywaj¹ce œwinkê morsk¹",
+      "block.toffiumforge.miska": "Miska",
+      "itemGroup.tabtoffium": "Toffium",
+      "entity.toffiumforge.swinkamorska": "Œwinka Morska",
+      "block.toffiumforge.trociny": "Trociny",
+      "block.toffiumforge.poidelko": "Poide³ko"
+    },
     "en_us": {
       "item.toffiumforge.swinkamorska_spawn_egg": "Œwinka Morska Spawn Egg",
       "block.toffiumforge.miska": "Miska",
+      "itemGroup.tabtoffium": "Toffium",
       "entity.toffiumforge.swinkamorska": "Œwinka Morska",
       "block.toffiumforge.trociny": "Trociny",
       "block.toffiumforge.poidelko": "Poidelko"
@@ -82,8 +100,8 @@
     "modid": "toffiumforge",
     "modName": "Toffium-forge",
     "version": "1.0.0",
-    "author": "Astro_Karmel, MCreator",
-    "websiteURL": "https://mcreator.net",
+    "author": "ChaeYox (tofikarz)",
+    "websiteURL": "https://github.com/tofikarz/Toffium-forge/",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
