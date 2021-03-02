@@ -21,20 +21,8 @@
 Wykonaj te komendy w folderze z plikami modyfikacji:
 
 ```shell
-./gradlew processResources
-./gradlew classes 
-./gradlew jar 
-./gradlew downloadMcpConfig 
-./gradlew extractSrg 
-./gradlew createMcpToSrg
-./gradlew reobfJar 
-./gradlew assemble 
-./gradlew compileTestJava
-./gradlew processTestResources
-./gradlew testClasses
-./gradlew test 
-./gradlew check
 ./gradlew build
+./gradlew clean build
 ```
 
 ## License
