@@ -86,7 +86,7 @@
     "stepSound": {
       "value": "block.sand.step"
     },
-    "spawnParticles": true,
+    "spawnParticles": false,
     "particleToSpawn": {
       "value": "HEART"
     },

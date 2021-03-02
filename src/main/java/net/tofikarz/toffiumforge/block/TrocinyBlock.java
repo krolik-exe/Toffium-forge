@@ -43,8 +43,7 @@ public class TrocinyBlock extends ToffiumforgeModElements.ModElement {
 	}
 	public static class CustomBlock extends SlabBlock {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.SAND).sound(SoundType.GROUND).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0)
-					.doesNotBlockMovement());
+			super(Block.Properties.create(Material.SAND).sound(SoundType.GROUND).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
 			setRegistryName("trociny");
 		}
 
