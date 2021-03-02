@@ -1,4 +1,5 @@
-# Toffium-forge    
+# Toffium-forge  <img width="300" src="/images/Toffium_logo1.png" alt="Toffium-forge" align="right">
+  
 Kliknij, aby pobrać
                    |
                    .
