@@ -36,7 +36,7 @@
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "FOOD"
+      "value": "CUSTOM:Toffium"
     },
     "destroyTool": "hoe",
     "customDrop": {

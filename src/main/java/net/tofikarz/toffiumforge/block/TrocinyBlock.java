@@ -1,6 +1,7 @@
 
 package net.tofikarz.toffiumforge.block;
 
+import net.tofikarz.toffiumforge.itemgroup.ToffiumItemGroup;
 import net.tofikarz.toffiumforge.ToffiumforgeModElements;
 
 import net.minecraftforge.registries.ObjectHolder;
@@ -13,7 +14,6 @@ import net.minecraft.util.text.ITextComponent;
 import net.minecraft.state.properties.SlabType;
 import net.minecraft.loot.LootContext;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.item.BlockItem;
 import net.minecraft.client.util.ITooltipFlag;
@@ -38,8 +38,7 @@ public class TrocinyBlock extends ToffiumforgeModElements.ModElement {
 	@Override
 	public void initElements() {
 		elements.blocks.add(() -> new CustomBlock());
-		elements.items
-				.add(() -> new BlockItem(block, new Item.Properties().group(ItemGroup.BUILDING_BLOCKS)).setRegistryName(block.getRegistryName()));
+		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(ToffiumItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
 	public static class CustomBlock extends SlabBlock {
 		public CustomBlock() {

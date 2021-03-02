@@ -36,7 +36,7 @@
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "BUILDING_BLOCKS"
+      "value": "CUSTOM:Toffium"
     },
     "destroyTool": "Not specified",
     "customDrop": {
