@@ -1,8 +1,8 @@
-name: Toffium-forge skrypt kompilowania
+name: Toffium-forge
 
 on:
   push:
-    branches: [ master ]
+    branches: [ dev/naprawa-github ]
   pull_request:
     branches: [ master ]
     
