@@ -2,9 +2,9 @@ name: Toffium-forge
 
 on:
   push:
-    branches: [ dev/naprawa-github ]
+    branches: [ ver/1.16.4 ]
   pull_request:
-    branches: [ master ]
+    branches: [ ver/1.16.4 ]
     
 jobs:
   build:
@@ -42,6 +42,6 @@ jobs:
     - name: Udostępnij artefakt
       uses: actions/upload-artifact@v2
       with:
-        name: toffium-forge-1.16.5
+        name: Toffium-forge-B-#1/1.16.4
         path: '**/build/libs/*.jar'
       
