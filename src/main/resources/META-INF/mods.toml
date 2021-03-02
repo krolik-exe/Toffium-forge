@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[35,)"
-license="--W TRAKCIE--"
+license="MIT License"
 
 [[mods]]
 modId="toffiumforge"
