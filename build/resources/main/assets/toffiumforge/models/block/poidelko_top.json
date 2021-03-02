@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "toffiumforge:blocks/splash_water_bottle_je2_be2",
+    "particle": "toffiumforge:blocks/splash_water_bottle_je2_be2"
+  }
+}
