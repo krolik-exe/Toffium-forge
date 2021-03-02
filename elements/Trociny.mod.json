@@ -72,9 +72,9 @@
     "luminance": 0,
     "unbreakable": false,
     "breakHarvestLevel": 1,
-    "spawnParticles": true,
+    "spawnParticles": false,
     "particleToSpawn": {
-      "value": "SMOKE_LARGE"
+      "value": "TOTEM"
     },
     "particleSpawningShape": "Spread",
     "particleSpawningRadious": 0.5,
