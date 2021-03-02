@@ -18,13 +18,13 @@
 ### Modyfikacja nie jest jeszcze stabilna , więc prosimy o tym pamiętać , bo mogą występować błędy !!!
 ## Kompilowanie
 
-Wykonaj te komendy w folderze z plikami modyfikacji:
+Wykonaj te komendy w folderze z plikami modyfikacji, jeśli chcesz samodzielnie kompilować modyfikację:
 
 ```shell
 ./gradlew build
 ./gradlew clean build
 ```
-
+Plik powinien znajdować się w /build/libs/
 ## License
 
 Informacje na temat licencji sa [tutaj](/LICENSE).
