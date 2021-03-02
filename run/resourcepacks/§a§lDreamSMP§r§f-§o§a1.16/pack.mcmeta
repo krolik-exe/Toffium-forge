@@ -1,0 +1,15 @@
+{
+    "pack": {
+        "description": [{"text":"DSMP ","color":"gold"},	
+	{"text":"for ","color":"green"},
+	{"text":"1.16.2 - 1.16.5 ","color":"dark_green"},
+	{"text":"by ","color":"aqua"},
+	{"text":"Tsukichiwo ","color":"red"},
+	{"text":"& ","color":"light_purple"},
+	{"text":"RinSleepy","color":"blue"}],
+
+
+        "pack_format": 6
+    }
+}
+
