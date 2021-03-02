@@ -42,6 +42,6 @@ jobs:
     - name: Udostępnij artefakt
       uses: actions/upload-artifact@v2
       with:
-        name: Toffium-forge-B-#1/1.16.4
-        path: '**/build/libs/*.jar'
+        name: Toffium-forge-B-#1,1.16.4
+        path: '**/build/libs/Toffium-forge-B-#1,1.16.4.jar'
       
