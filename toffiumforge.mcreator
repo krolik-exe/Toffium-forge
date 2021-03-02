@@ -80,20 +80,20 @@
   "sound_elements": [],
   "language_map": {
     "pl_pl": {
-      "item.toffiumforge.swinkamorska_spawn_egg": "Jajo przyzywaj¹ce œwinkê morsk¹",
-      "block.toffiumforge.miska": "Miska",
-      "itemGroup.tabtoffium": "Toffium",
-      "entity.toffiumforge.swinkamorska": "Œwinka Morska",
-      "block.toffiumforge.trociny": "Trociny",
-      "block.toffiumforge.poidelko": "Poide³ko"
-    },
-    "en_us": {
-      "item.toffiumforge.swinkamorska_spawn_egg": "Œwinka Morska Spawn Egg",
+      "item.toffiumforge.swinkamorska_spawn_egg": "Jajo przyzywaj¹ce œwinke morsk¹",
       "block.toffiumforge.miska": "Miska",
       "itemGroup.tabtoffium": "Toffium",
       "entity.toffiumforge.swinkamorska": "Œwinka Morska",
       "block.toffiumforge.trociny": "Trociny",
       "block.toffiumforge.poidelko": "Poidelko"
+    },
+    "en_us": {
+      "item.toffiumforge.swinkamorska_spawn_egg": "Guinea Pig Spawn Egg",
+      "block.toffiumforge.miska": "Bowl",
+      "itemGroup.tabtoffium": "Toffium",
+      "entity.toffiumforge.swinkamorska": "Guinea Pig",
+      "block.toffiumforge.trociny": "Trociny",
+      "block.toffiumforge.poidelko": "Drinker"
     }
   },
   "workspaceSettings": {

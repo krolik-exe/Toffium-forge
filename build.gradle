@@ -11,9 +11,9 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 
-version = 'B-#1/1.16.4'
+version = '1.16.4'
 group = 'net.tofikarz.toffiumforge'
-archivesBaseName = 'Toffium-forge-'
+archivesBaseName = 'Toffium-forge-B-#1'
 
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8'
 
