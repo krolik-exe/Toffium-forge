@@ -1,6 +1,6 @@
 # Toffium-forge  <img width="300" src="/images/Toffium_logo1.png" alt="Toffium-forge" align="right">
   
-Kliknij, aby pobrać
+Kliknij, aby pobrać najnowszą wersję | UWAGA NIE MA GWARANCJI POPR. DZIAŁANIA
                    |
                    .
 [![Toffium-forge](https://github.com/tofikarz/Toffium-forge/actions/workflows/gradle.yml/badge.svg)](https://github.com/tofikarz/Toffium-forge/actions/workflows/gradle.yml)
