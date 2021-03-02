@@ -249,7 +249,6 @@ public class SwinkamorskaEntity extends ToffiumforgeModElements.ModElement {
 						this.enablePersistence();
 				}
 			}
-			sourceentity.startRiding(this);
 			double x = this.getPosX();
 			double y = this.getPosY();
 			double z = this.getPosZ();

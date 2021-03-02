@@ -47,6 +47,24 @@
           }
         ]
       }
+    },
+    {
+      "name": "Miska",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miska"
+    },
+    {
+      "name": "Poidelko",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poidelko"
     }
   ],
   "variable_elements": [],
@@ -54,8 +72,10 @@
   "language_map": {
     "en_us": {
       "item.toffiumforge.swinkamorska_spawn_egg": "Œwinka Morska Spawn Egg",
+      "block.toffiumforge.miska": "Miska",
       "entity.toffiumforge.swinkamorska": "Œwinka Morska",
-      "block.toffiumforge.trociny": "Trociny"
+      "block.toffiumforge.trociny": "Trociny",
+      "block.toffiumforge.poidelko": "Poidelko"
     }
   },
   "workspaceSettings": {
