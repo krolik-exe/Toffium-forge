@@ -1,5 +1,7 @@
-# Toffium-forge    |  Kliknij, aby pobrać
-                   V
+# Toffium-forge    
+Kliknij, aby pobrać
+                   |
+                   .
 [![Toffium-forge](https://github.com/tofikarz/Toffium-forge/actions/workflows/gradle.yml/badge.svg)](https://github.com/tofikarz/Toffium-forge/actions/workflows/gradle.yml)
 |
 <h3>Modyfikacja dodajaca swinki morskie , trociny , poidelka , miski do gry Minecraft: Java Edition.</h3>
