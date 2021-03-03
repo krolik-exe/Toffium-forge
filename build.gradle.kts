@@ -6,7 +6,6 @@ buildscript {
     }
     dependencies {
         classpath("net.minecraftforge.gradle:ForgeGradle:4.0.23")
-        minecraft("net.minecraftforge:forge:1.16.5-35.1.37")
     }
 }
 
@@ -52,4 +51,7 @@ minecraft {
     }
 }
 
+    dependencies {
+    minecraft("net.minecraftforge:forge:1.16.4-35.1.4")
+        
 apply(from = "mcreator.gradle")
