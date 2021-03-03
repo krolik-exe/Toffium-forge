@@ -10,7 +10,6 @@ buildscript {
 }
 
 plugins {
-    id("net.minecraftforge.gradle.forge")
     id("eclipse")
 }
     
