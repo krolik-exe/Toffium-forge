@@ -1,0 +1,36 @@
+{
+  "group": "toffiumforge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bookshelf"
+    },
+    "1": {
+      "item": "minecraft:peony"
+    },
+    "2": {
+      "item": "minecraft:sweet_berry_bush"
+    },
+    "3": {
+      "item": "minecraft:magenta_dye"
+    },
+    "4": {
+      "item": "minecraft:golden_apple"
+    },
+    "5": {
+      "item": "minecraft:purple_dye"
+    },
+    "7": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "toffiumforge:fioletowejablko",
+    "count": 1
+  }
+}

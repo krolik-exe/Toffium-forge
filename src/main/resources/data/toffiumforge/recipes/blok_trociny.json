@@ -1,0 +1,36 @@
+{
+  "group": "toffiumforge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:oak_log"
+    },
+    "1": {
+      "item": "minecraft:oak_log"
+    },
+    "2": {
+      "item": "minecraft:oak_log"
+    },
+    "3": {
+      "item": "minecraft:sand"
+    },
+    "4": {
+      "item": "minecraft:sand"
+    },
+    "5": {
+      "item": "minecraft:sand"
+    },
+    "7": {
+      "item": "minecraft:grass"
+    }
+  },
+  "result": {
+    "item": "toffiumforge:trociny",
+    "count": 24
+  }
+}

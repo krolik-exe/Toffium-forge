@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.BOOKSHELF"
+      },
+      {
+        "value": "Blocks.DOUBLE_PLANT#5"
+      },
+      {
+        "value": "Blocks.SWEET_BERRY_BUSH"
+      },
+      {
+        "value": "Items.DYE#13"
+      },
+      {
+        "value": "Items.GOLDEN_APPLE#0"
+      },
+      {
+        "value": "Items.DYE#5"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Fioletowejablko"
+    },
+    "name": "receptura_fioletowe_jablko",
+    "namespace": "mod"
+  }
+}

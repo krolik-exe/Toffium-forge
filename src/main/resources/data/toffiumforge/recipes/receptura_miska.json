@@ -1,0 +1,32 @@
+{
+  "group": "toffiumforge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:white_concrete"
+    },
+    "1": {
+      "item": "minecraft:wheat"
+    },
+    "2": {
+      "item": "minecraft:white_concrete"
+    },
+    "3": {
+      "item": "minecraft:grass"
+    },
+    "4": {
+      "item": "minecraft:white_concrete"
+    },
+    "5": {
+      "item": "minecraft:grass"
+    }
+  },
+  "result": {
+    "item": "toffiumforge:miska",
+    "count": 2
+  }
+}

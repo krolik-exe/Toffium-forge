@@ -92,6 +92,77 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "swinkowaskrzynia"
+    },
+    {
+      "name": "FioletowejablkoFoodEaten",
+      "type": "procedure",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fioletowejablko_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fioletowejablko",
+      "type": "food",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fioletowejablko"
+    },
+    {
+      "name": "BlokTrociny",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blok_trociny"
+    },
+    {
+      "name": "Recepturapoidelko",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recepturapoidelko"
+    },
+    {
+      "name": "Recepturaklatka",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recepturaklatka"
+    },
+    {
+      "name": "Recepturamiska",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recepturamiska"
+    },
+    {
+      "name": "Recepturafioletjablko",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recepturafioletjablko"
     }
   ],
   "variable_elements": [],
@@ -102,6 +173,7 @@
       "block.toffiumforge.swinkowaskrzynia": "Œwinkowa skrzynia",
       "block.toffiumforge.miska": "Miska",
       "itemGroup.tabtoffium": "Toffium",
+      "item.toffiumforge.fioletowejablko": "Fioletowe jab³ko",
       "entity.toffiumforge.swinkamorska": "Œwinka Morska",
       "block.toffiumforge.trociny": "Trociny",
       "block.toffiumforge.poidelko": "Poidelko"
@@ -111,6 +183,7 @@
       "block.toffiumforge.swinkowaskrzynia": "Pig crate",
       "block.toffiumforge.miska": "Bowl",
       "itemGroup.tabtoffium": "Toffium",
+      "item.toffiumforge.fioletowejablko": "Fioletowe jab³ko",
       "entity.toffiumforge.swinkamorska": "Œwinka Morska",
       "block.toffiumforge.trociny": "Sawdust",
       "block.toffiumforge.poidelko": "Drinker"
