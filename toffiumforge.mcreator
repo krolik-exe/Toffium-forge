@@ -181,10 +181,10 @@
     "en_us": {
       "item.toffiumforge.swinkamorska_spawn_egg": "Œwinka Morska Spawn Egg",
       "block.toffiumforge.swinkowaskrzynia": "Pig crate",
-      "block.toffiumforge.miska": "Bowl",
+      "block.toffiumforge.miska": "Miska",
       "itemGroup.tabtoffium": "Toffium",
-      "item.toffiumforge.fioletowejablko": "Fioletowe jab³ko",
-      "entity.toffiumforge.swinkamorska": "Œwinka Morska",
+      "item.toffiumforge.fioletowejablko": "Purple Apple",
+      "entity.toffiumforge.swinkamorska": "Guinea Pig",
       "block.toffiumforge.trociny": "Sawdust",
       "block.toffiumforge.poidelko": "Drinker"
     }
