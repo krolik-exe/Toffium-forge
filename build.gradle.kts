@@ -12,10 +12,11 @@ buildscript {
 plugins {
     id("net.minecraftforge.gradle")
     id("eclipse")
+}
     
-version("1.16.5")
-group("net.tofikarz.toffiumforge")
-archivesBaseName("Toffium-forge-1.16.5")
+    tasks.jar {
+    archiveFileName.set("Toffium-forge-1.16.5.jar")
+}
 
 sourceCompatibility = 1.8
 
@@ -52,6 +53,7 @@ minecraft {
 }
 
     dependencies {
-    minecraft("net.minecraftforge:forge:1.16.4-35.1.4")
+    minecraft("net.minecraftforge:forge:1.16.4-35.1.37")
+    }
         
 apply(from = "mcreator.gradle")
