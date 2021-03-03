@@ -169,12 +169,12 @@
   "sound_elements": [],
   "language_map": {
     "pl_pl": {
-      "item.toffiumforge.swinkamorska_spawn_egg": "Jajo przyzywajÂ¹ce Å“winke morskÂ¹",
-      "block.toffiumforge.swinkowaskrzynia": "Å’winkowa skrzynia",
+      "item.toffiumforge.swinkamorska_spawn_egg": "Jajo przyzywajace Swinke morska",
+      "block.toffiumforge.swinkowaskrzynia": "Swinkowa skrzynia",
       "block.toffiumforge.miska": "Miska",
       "itemGroup.tabtoffium": "Toffium",
-      "item.toffiumforge.fioletowejablko": "Fioletowe jabÂ³ko",
-      "entity.toffiumforge.swinkamorska": "Å’winka Morska",
+      "item.toffiumforge.fioletowejablko": "Fioletowe jablko",
+      "entity.toffiumforge.swinkamorska": "Swinka Morska",
       "block.toffiumforge.trociny": "Trociny",
       "block.toffiumforge.poidelko": "Poidelko"
     },
@@ -203,6 +203,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.16.4",
+    "credits": "Mod jest open-source , czyli ka¿dy kto chce mo¿e daæ pomys³ co jeszcze dodaæ \u003c3",
     "modElementsPackage": "net.tofikarz.toffiumforge",
     "lockBaseModFiles": false
   },
