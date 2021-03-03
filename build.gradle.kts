@@ -20,7 +20,7 @@ archivesBaseName = 'Toffium-forge-1.16.5'
 sourceCompatibility = 1.8
 
 minecraft {
-    mappings channel: 'snapshot', version: '20201028-1.16.3'
+    mappings channel("snapshot:version:20201028-1.16.3")
 
     runs {
         client {
