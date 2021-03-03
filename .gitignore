@@ -33,6 +33,6 @@ build/
 .mcreator
 .DS_STORE
 .idea
-mods.toml
-pack.mcmeta
+*.toml
+*.mcmeta
 images/
