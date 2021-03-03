@@ -179,9 +179,9 @@
       "block.toffiumforge.poidelko": "Poidelko"
     },
     "en_us": {
-      "item.toffiumforge.swinkamorska_spawn_egg": "Å’winka Morska Spawn Egg",
+      "item.toffiumforge.swinkamorska_spawn_egg": "Guinea Pig Spawn Egg",
       "block.toffiumforge.swinkowaskrzynia": "Pig crate",
-      "block.toffiumforge.miska": "Miska",
+      "block.toffiumforge.miska": "Bowl",
       "itemGroup.tabtoffium": "Toffium",
       "item.toffiumforge.fioletowejablko": "Purple Apple",
       "entity.toffiumforge.swinkamorska": "Guinea Pig",
@@ -193,6 +193,7 @@
     "modid": "toffiumforge",
     "modName": "Toffium-forge",
     "version": "1.0.1",
+    "description": "Dodaje swinki morskie , trociny , miski , poidelka, rzeczy ogolnie zwiazane z zwierzetami i nowe jedzenia, takie jak fioletowe jablko",
     "author": "ChaeYox (tofikarz)",
     "websiteURL": "https://github.com/tofikarz/Toffium-forge",
     "license": "MIT License/Licencja",
@@ -203,7 +204,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.16.4",
-    "credits": "Mod jest open-source , czyli ka¿dy kto chce mo¿e daæ pomys³ co jeszcze dodaæ \u003c3",
+    "credits": "Mod jest open-source , czyli kazdy kto chce moze dac pomysl co jeszcze dodac \u003c3",
     "modElementsPackage": "net.tofikarz.toffiumforge",
     "lockBaseModFiles": false
   },

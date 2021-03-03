@@ -6,9 +6,12 @@ license="MIT License/Licencja"
 modId="toffiumforge"
 version="1.0.1"
 displayName="Toffium-forge"
-credits="Mod jest open-source , czyli ka¿dy kto chce mo¿e daæ pomys³ co jeszcze dodaæ <3"
+credits="Mod jest open-source , czyli kazdy kto chce moze dac pomysl co jeszcze dodac <3"
 displayURL="https://github.com/tofikarz/Toffium-forge"
 authors="ChaeYox (tofikarz)"
+description='''
+Dodaje swinki morskie , trociny , miski , poidelka, rzeczy ogolnie zwiazane z zwierzetami i nowe jedzenia, takie jak fioletowe jablko
+'''
 
 [[dependencies.toffiumforge]]
     modId="minecraft"
