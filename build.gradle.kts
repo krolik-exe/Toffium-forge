@@ -16,7 +16,14 @@ plugins {
     archiveFileName.set("Toffium-forge-1.16.5.jar")
 }
 
-sourceCompatibility = 1.8
+tasks.withType(org.jetbrains.kotlin.gradle.tasks.KotlinCompile).all {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+
+    kotlinOptions {
+        jvmTarget = "1.8"
+    }
+}
 
 minecraft {
     mappings channel("snapshot:version:20201028-1.16.3")
