@@ -74,6 +74,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "toffium"
+    },
+    {
+      "name": "Klatka",
+      "type": "gui",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "klatka"
+    },
+    {
+      "name": "Swinkowaskrzynia",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "swinkowaskrzynia"
     }
   ],
   "variable_elements": [],
@@ -81,6 +99,7 @@
   "language_map": {
     "pl_pl": {
       "item.toffiumforge.swinkamorska_spawn_egg": "Jajo przyzywaj¹ce œwinke morsk¹",
+      "block.toffiumforge.swinkowaskrzynia": "Œwinkowa skrzynia",
       "block.toffiumforge.miska": "Miska",
       "itemGroup.tabtoffium": "Toffium",
       "entity.toffiumforge.swinkamorska": "Œwinka Morska",
@@ -88,11 +107,12 @@
       "block.toffiumforge.poidelko": "Poidelko"
     },
     "en_us": {
-      "item.toffiumforge.swinkamorska_spawn_egg": "Guinea Pig Spawn Egg",
+      "item.toffiumforge.swinkamorska_spawn_egg": "Œwinka Morska Spawn Egg",
+      "block.toffiumforge.swinkowaskrzynia": "Pig crate",
       "block.toffiumforge.miska": "Bowl",
       "itemGroup.tabtoffium": "Toffium",
-      "entity.toffiumforge.swinkamorska": "Guinea Pig",
-      "block.toffiumforge.trociny": "Trociny",
+      "entity.toffiumforge.swinkamorska": "Œwinka Morska",
+      "block.toffiumforge.trociny": "Sawdust",
       "block.toffiumforge.poidelko": "Drinker"
     }
   },

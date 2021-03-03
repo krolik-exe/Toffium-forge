@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "toffiumforge:blocks/skrzynia-gora",
+    "up": "toffiumforge:blocks/skrzynia-gora",
+    "north": "toffiumforge:blocks/skrzynia-przod",
+    "east": "toffiumforge:blocks/skrzynia-przod",
+    "south": "toffiumforge:blocks/skrzynia-przod",
+    "west": "toffiumforge:blocks/skrzynia-przod",
+    "particle": "toffiumforge:blocks/skrzynia-przod"
+  }
+}

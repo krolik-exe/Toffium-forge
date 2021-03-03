@@ -1,0 +1,397 @@
+{
+  "_fv": 15,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Pojemnik na:",
+          "color": {
+            "value": -10027162,
+            "falpha": 0.0
+          },
+          "name": "Pojemnik na:",
+          "x": 131,
+          "y": 43
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Trociny"
+          },
+          "color": {
+            "value": -205,
+            "falpha": 0.0
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #0",
+          "x": 132,
+          "y": 120
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Trociny"
+          },
+          "color": {
+            "value": -205,
+            "falpha": 0.0
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #1",
+          "x": 150,
+          "y": 120
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Trociny"
+          },
+          "color": {
+            "value": -205,
+            "falpha": 0.0
+          },
+          "id": 2,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #2",
+          "x": 168,
+          "y": 120
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Trociny"
+          },
+          "color": {
+            "value": -205,
+            "falpha": 0.0
+          },
+          "id": 3,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #3",
+          "x": 186,
+          "y": 120
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Trociny"
+          },
+          "color": {
+            "value": -205,
+            "falpha": 0.0
+          },
+          "id": 4,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #4",
+          "x": 204,
+          "y": 120
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Trociny"
+          },
+          "color": {
+            "value": -205,
+            "falpha": 0.0
+          },
+          "id": 5,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #5",
+          "x": 222,
+          "y": 120
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "¯ó³te - trociny ",
+          "color": {
+            "value": -205,
+            "falpha": 0.0
+          },
+          "name": "¯ó³te - trociny ",
+          "x": 129,
+          "y": 66
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Zwyk³e - miski",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Zwyk³e - miski",
+          "x": 129,
+          "y": 76
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Poide³ka - niebieskie",
+          "color": {
+            "value": -10027060,
+            "falpha": 0.0
+          },
+          "name": "Poide³ka - niebieskie",
+          "x": 129,
+          "y": 86
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Miska"
+          },
+          "id": 15,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #15",
+          "x": 240,
+          "y": 138
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Miska"
+          },
+          "id": 16,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #16",
+          "x": 258,
+          "y": 138
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Miska"
+          },
+          "id": 17,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #17",
+          "x": 276,
+          "y": 138
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Trociny"
+          },
+          "color": {
+            "value": -205,
+            "falpha": 0.0
+          },
+          "id": 9,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #9",
+          "x": 132,
+          "y": 138
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Trociny"
+          },
+          "color": {
+            "value": -205,
+            "falpha": 0.0
+          },
+          "id": 10,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #10",
+          "x": 150,
+          "y": 138
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Trociny"
+          },
+          "color": {
+            "value": -205,
+            "falpha": 0.0
+          },
+          "id": 11,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #11",
+          "x": 168,
+          "y": 138
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Trociny"
+          },
+          "color": {
+            "value": -205,
+            "falpha": 0.0
+          },
+          "id": 12,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #12",
+          "x": 186,
+          "y": 138
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Miska"
+          },
+          "id": 13,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #13",
+          "x": 204,
+          "y": 138
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 14,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #14",
+          "x": 222,
+          "y": 138
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Poidelko"
+          },
+          "color": {
+            "value": -10027060,
+            "falpha": 0.0
+          },
+          "id": 6,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #6",
+          "x": 240,
+          "y": 120
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Poidelko"
+          },
+          "color": {
+            "value": -10027060,
+            "falpha": 0.0
+          },
+          "id": 7,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #7",
+          "x": 258,
+          "y": 120
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "color": {
+            "value": -10027060,
+            "falpha": 0.0
+          },
+          "id": 8,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #8",
+          "x": 276,
+          "y": 120
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Sloty bez liczb",
+          "color": {
+            "value": -39322,
+            "falpha": 0.0
+          },
+          "name": "Sloty bez liczb",
+          "x": 213,
+          "y": 42
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "S¹ wielo-u¿ytk.",
+          "color": {
+            "value": -39322,
+            "falpha": 0.0
+          },
+          "name": "S¹ wielo-u¿ytk.",
+          "x": 217,
+          "y": 52
+        }
+      }
+    ]
+  }
+}
