@@ -5,17 +5,17 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath group: 'net.minecraftforge.gradle', name: 'ForgeGradle', version: '3.+', changing: true
+        classpath("net.minecraftforge.gradle:ForgeGradle:4.0.23")
     }
+}
 
 plugins {
     id 'net.minecraftforge.gradle'
     id 'eclipse'
-}
     
-version = '1.16.4'
+version = '1.16.5'
 group = 'net.tofikarz.toffiumforge'
-archivesBaseName = 'Toffium-forge-1.16.4'
+archivesBaseName = 'Toffium-forge-1.16.5'
 
 sourceCompatibility = 1.8
 
@@ -52,7 +52,7 @@ minecraft {
 }
 
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.16.4-35.1.4'
+    implementation("net.minecraftforge:forge:1.16.5-35.1.37'
 }
 
 apply from: 'mcreator.gradle'
