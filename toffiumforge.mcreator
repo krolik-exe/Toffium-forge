@@ -169,17 +169,17 @@
   "sound_elements": [],
   "language_map": {
     "pl_pl": {
-      "item.toffiumforge.swinkamorska_spawn_egg": "Jajo przyzywaj¹ce œwinke morsk¹",
-      "block.toffiumforge.swinkowaskrzynia": "Œwinkowa skrzynia",
+      "item.toffiumforge.swinkamorska_spawn_egg": "Jajo przyzywajÂ¹ce Å“winke morskÂ¹",
+      "block.toffiumforge.swinkowaskrzynia": "Å’winkowa skrzynia",
       "block.toffiumforge.miska": "Miska",
       "itemGroup.tabtoffium": "Toffium",
-      "item.toffiumforge.fioletowejablko": "Fioletowe jab³ko",
-      "entity.toffiumforge.swinkamorska": "Œwinka Morska",
+      "item.toffiumforge.fioletowejablko": "Fioletowe jabÂ³ko",
+      "entity.toffiumforge.swinkamorska": "Å’winka Morska",
       "block.toffiumforge.trociny": "Trociny",
       "block.toffiumforge.poidelko": "Poidelko"
     },
     "en_us": {
-      "item.toffiumforge.swinkamorska_spawn_egg": "Œwinka Morska Spawn Egg",
+      "item.toffiumforge.swinkamorska_spawn_egg": "Å’winka Morska Spawn Egg",
       "block.toffiumforge.swinkowaskrzynia": "Pig crate",
       "block.toffiumforge.miska": "Miska",
       "itemGroup.tabtoffium": "Toffium",
@@ -192,10 +192,10 @@
   "workspaceSettings": {
     "modid": "toffiumforge",
     "modName": "Toffium-forge",
-    "version": "1.0.0",
-    "author": "Astro_Karmel, MCreator",
-    "websiteURL": "https://mcreator.net",
-    "license": "Academic Free License v3.0",
+    "version": "1.0.1",
+    "author": "ChaeYox (tofikarz)",
+    "websiteURL": "https://github.com/tofikarz/Toffium-forge",
+    "license": "MIT License/Licencja",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
