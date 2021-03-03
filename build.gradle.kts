@@ -6,16 +6,17 @@ buildscript {
     }
     dependencies {
         classpath("net.minecraftforge.gradle:ForgeGradle:4.0.23")
+        implementation("net.minecraftforge:forge:1.16.5-35.1.37")
     }
 }
 
 plugins {
-    id 'net.minecraftforge.gradle'
-    id 'eclipse'
+    id("net.minecraftforge.gradle")
+    id("eclipse")
     
-version = '1.16.5'
-group = 'net.tofikarz.toffiumforge'
-archivesBaseName = 'Toffium-forge-1.16.5'
+version("1.16.5")
+group("net.tofikarz.toffiumforge")
+archivesBaseName("Toffium-forge-1.16.5")
 
 sourceCompatibility = 1.8
 
@@ -24,10 +25,10 @@ minecraft {
 
     runs {
         client {
-            workingDirectory project.file('run')
+            workingDirectory project.file("run")
 
-            property 'forge.logging.markers', 'REGISTRIES'
-            property 'forge.logging.console.level', 'debug'
+            property("forge.logging.markers:REGISTRIES")
+            property("forge.logging.console.level:debug")
 
             mods {
                 examplemod {
@@ -37,10 +38,10 @@ minecraft {
         }
 
         server {
-            workingDirectory project.file('run')
+            workingDirectory project.file("run")
 
-            property 'forge.logging.markers', 'REGISTRIES'
-            property 'forge.logging.console.level', 'debug'
+            property("forge.logging.markers:REGISTRIES")
+            property("forge.logging.console.level:debug")
 
             mods {
                 examplemod {
@@ -51,9 +52,4 @@ minecraft {
     }
 }
 
-dependencies {
-    implementation("net.minecraftforge:forge:1.16.5-35.1.37'
-}
-
-apply from: 'mcreator.gradle'
-
+apply(from = "mcreator.gradle")
