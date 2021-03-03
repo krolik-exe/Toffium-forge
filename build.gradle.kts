@@ -1,21 +1,23 @@
 buildscript {
     repositories {
-        maven { url = 'https://files.minecraftforge.net/maven' }
+        maven(url = "https://files.minecraftforge.net/maven")
         jcenter()
         mavenCentral()
     }
     dependencies {
         classpath group: 'net.minecraftforge.gradle', name: 'ForgeGradle', version: '3.+', changing: true
     }
-}
-apply plugin: 'net.minecraftforge.gradle'
-apply plugin: 'eclipse'
 
+plugins {
+    id 'net.minecraftforge.gradle'
+    id 'eclipse'
+}
+    
 version = '1.16.4'
 group = 'net.tofikarz.toffiumforge'
-archivesBaseName = 'Toffium-forge-B-#1'
+archivesBaseName = 'Toffium-forge-1.16.4'
 
-sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8'
+sourceCompatibility = 1.8
 
 minecraft {
     mappings channel: 'snapshot', version: '20201028-1.16.3'
