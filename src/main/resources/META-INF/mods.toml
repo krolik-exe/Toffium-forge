@@ -1,14 +1,14 @@
 modLoader="javafml"
 loaderVersion="[35,)"
-license="Academic Free License v3.0"
+license="MIT License"
 
 [[mods]]
 modId="toffiumforge"
-version="1.0.0"
+version="1.0.1"
 displayName="Toffium-forge"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://mcreator.net"
-authors="Astro_Karmel, MCreator"
+credits=""
+displayURL="https://github.com/tofikarz/Toffium-forge"
+authors="ChaeYox (tofikarz)"
 
 [[dependencies.toffiumforge]]
     modId="minecraft"
