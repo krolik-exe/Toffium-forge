@@ -1,10 +1,10 @@
-name: Toffium-forge skrypt kompilowania
+name: Toffium-forge
 
 on:
   push:
-    branches: [ master ]
+    branches: [ MC-1.16.4 ]
   pull_request:
-    branches: [ master ]
+    branches: [ MC-1.16.4 ]
     
 jobs:
   build:
@@ -36,25 +36,12 @@ jobs:
          
     - name: Skompiluj modyfikacje
       run: | 
-           ./gradlew processResources
-           ./gradlew classes 
-           ./gradlew jar 
-           ./gradlew downloadMcpConfig 
-           ./gradlew extractSrg 
-           ./gradlew createMcpToSrg
-           ./gradlew reobfJar 
-           ./gradlew assemble 
-           ./gradlew compileTestJava
-           ./gradlew processTestResources
-           ./gradlew testClasses
-           ./gradlew test 
-           ./gradlew check
            ./gradlew build
            ./gradlew clean build
         
     - name: Udostępnij artefakt
       uses: actions/upload-artifact@v2
       with:
-        name: toffium-forge-1.16.5
-        path: '**/build/libs/*.jar'
+        name: Toffium-forge-B-#1-1.16.4
+        path: '**/build/libs/Toffium-forge-B-#1-1.16.4.jar'
       

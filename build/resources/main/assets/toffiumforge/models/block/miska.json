@@ -1,8 +1,0 @@
-{
-  "parent": "block/slab",
-  "textures": {
-    "bottom": "toffiumforge:blocks/r6d14b59a1605d51f3d165d28921657fc",
-    "top": "toffiumforge:blocks/zarcie",
-    "side": "toffiumforge:blocks/r6d14b59a1605d51f3d165d28921657fc"
-  }
-}
