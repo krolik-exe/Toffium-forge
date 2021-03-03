@@ -13,7 +13,6 @@ plugins {
     id("eclipse")
 }
     
-    tasks.jar {
     archiveFileName.set("Toffium-forge-1.16.5.jar")
 }
 
