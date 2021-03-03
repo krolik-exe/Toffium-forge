@@ -31,9 +31,11 @@ minecraft {
 
             mods {
                 examplemod {
-                    source sourceSets.main
+                    sourceSets {
+                    main
                 }
             }
+        }
         }
 
         server {
@@ -44,11 +46,13 @@ minecraft {
 
             mods {
                 examplemod {
-                    source sourceSets.main
+                    sourceSets {
+                        main
                 }
             }
         }
     }
+}
 }
 
     dependencies {
