@@ -28,7 +28,7 @@ minecraftversion = '1.16.4'
 group = 'net.tofikarz.toffiumforge'
 archivesBaseName = 'Toffium-forge-$minecraftVersion-$versionTag'
 
-sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8'
+sourceCompatibility = 1.8
 
 minecraft {
     mappings channel: 'snapshot', version: '20201028-1.16.3'
